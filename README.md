@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Remote Sensing image Analysis**
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, DSA**
+- 🌱 I’m currently learning **Python, Data Analysis, Machine Learning, DSA**
 
 - 📫 How to reach me **jayagayatrifin@gmail.com**
 
