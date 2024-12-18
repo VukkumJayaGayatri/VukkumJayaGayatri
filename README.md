@@ -1,7 +1,7 @@
 ![logo](https://github.com/VukkumJayaGayatri/VukkumJayaGayatri/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Jaya Gayatri Vukkum</h1>
-<h3 align="center">A passionate AI, Data Enthusiast</h3>
+<h3 align="center">A passionate Data Enthusiast and Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukkumjayagayatri&label=Profile%20views&color=0e75b6&style=flat" alt="vukkumjayagayatri" /> </p>
 
